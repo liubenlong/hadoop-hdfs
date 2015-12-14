@@ -1,0 +1,10 @@
+hello word
+hello kity
+cat dog
+dog daxiang
+hadoop linux
+hadoop lucene
+hadoop kity
+zhangsan lisi
+lisi wangwu
+wangwu word
